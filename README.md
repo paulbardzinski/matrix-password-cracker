@@ -1,2 +1,2 @@
-# matrix-password-cracker
+# Matrix Password Cracker
 Password cracker... but stylish.
